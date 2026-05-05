@@ -8,13 +8,13 @@ Tecnologias utilizadas
 HTML5
 Estrutura utilizada
 
-No <body> foram utilizadas as seguintes tags:
+No < body > foram utilizadas as seguintes tags:
 
-<h1> para o título principal
-<p> para os parágrafos
-<i> para texto em itálico
+< h1 > para o título principal
+< p > para os parágrafos
+< i > para texto em itálico
 
-Além disso, a página possui um <head> contendo o título da aba do navegador.
+Além disso, a página possui um < head > contendo o título da aba do navegador.
 
 ![Preview do Projeto](assets/sp.png.png)
 
